@@ -15,7 +15,7 @@
         <name/>
         <order/>
         <override_menu_roles>true</override_menu_roles>
-        <query>/now/x_13258_time_off_0/workspace/dashboard</query>
+        <query>/x/13258/x_13258_time_off_0/workspace/dashboard</query>
         <report/>
         <roles>x_13258_time_off_0.admin,x_13258_time_off_0.manager</roles>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bde0bf05d22130107ba870c6998b2d50</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Time Off Workspace</sys_name>
         <sys_overrides/>
         <sys_package display_value="Time off request" source="x_13258_time_off_0">f5e0bf05392130109266b9685d81dc9f</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Time off request">f5e0bf05392130109266b9685d81dc9f</sys_scope>
         <sys_update_name>sys_app_module_bde0bf05d22130107ba870c6998b2d50</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-07-23 09:12:47</sys_updated_on>
+        <sys_updated_on>2021-07-23 09:59:15</sys_updated_on>
         <timeline_page/>
         <title>Time Off Workspace</title>
         <uncancelable>false</uncancelable>
