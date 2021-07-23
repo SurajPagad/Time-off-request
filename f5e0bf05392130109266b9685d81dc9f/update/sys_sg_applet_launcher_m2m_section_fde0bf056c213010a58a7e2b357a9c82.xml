@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Dashboard">39e0bf058d2130104e8cbe3be8ace882</applet_launcher>
+        <order>30</order>
+        <section display_value="Time Off Trends">bde0bf05502130103c3ee6c427dfe282</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-23 09:13:11</sys_created_on>
+        <sys_id>fde0bf056c213010a58a7e2b357a9c82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time off request" source="x_13258_time_off_0">f5e0bf05392130109266b9685d81dc9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time off request">f5e0bf05392130109266b9685d81dc9f</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_fde0bf056c213010a58a7e2b357a9c82</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-23 09:13:11</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

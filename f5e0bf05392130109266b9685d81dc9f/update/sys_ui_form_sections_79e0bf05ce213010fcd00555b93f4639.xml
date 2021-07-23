@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="79e0bf05ce213010fcd00555b93f4639" sys_domain="global" table="x_13258_time_off_0_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9e0bf05d4213010fc7585393c26b739</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_13258_time_off_0_request" name="x_13258_time_off_0_request" sys_domain="global" view="b9e0bf059c21301028258c30c1c77139">79e0bf05ce213010fcd00555b93f4639</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_13258_time_off_0_request" sys_domain="global" view="b9e0bf059c21301028258c30c1c77139">3de0bf05af2130103485ce5803e9d739</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7de0bf053a213010e57578156b711939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_13258_time_off_0_request" name="x_13258_time_off_0_request" sys_domain="global" view="b9e0bf059c21301028258c30c1c77139">79e0bf05ce213010fcd00555b93f4639</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_13258_time_off_0_request" sys_domain="global" view="b9e0bf059c21301028258c30c1c77139">bde0bf056021301041ccdbe4f71e9239</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:48</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_13258_time_off_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79e0bf05ce213010fcd00555b93f4639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_13258_time_off_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Time off request" source="x_13258_time_off_0">f5e0bf05392130109266b9685d81dc9f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time off request">f5e0bf05392130109266b9685d81dc9f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_79e0bf05ce213010fcd00555b93f4639</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Record (x_13258_time_off_0 )" name="record_x_13258_time_off_0">b9e0bf059c21301028258c30c1c77139</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_13258_time_off_0.TimeOffDateValidation</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>TimeOffDateValidation</name>
+        <script><![CDATA[var TimeOffDateValidation = Class.create();
+TimeOffDateValidation.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	
+	startDate: function(){
+		var date = this.getParameter('sysparm_date');
+		var gdt = new GlideDateTime();
+		var today = gdt.getDate();
+		var gdt2 = new GlideDateTime(date);
+		var start = gdt2.getDate();
+		var answer = '';
+
+		if (start < today){
+			answer = true;
+		}
+		return answer;
+	},
+	
+	endDate: function(){
+		var end_date = this.getParameter('sysparm_end');
+		var start_date = this.getParameter('sysparm_start');
+		var answer = '';
+
+		if (end_date < start_date){
+			answer = true;
+		}
+		return answer;
+	},
+
+
+    type: 'TimeOffDateValidation'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-23 09:13:00</sys_created_on>
+        <sys_id>35e0bf05ba2130108a6b28b8a3b58f7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TimeOffDateValidation</sys_name>
+        <sys_package display_value="Time off request" source="x_13258_time_off_0">f5e0bf05392130109266b9685d81dc9f</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Time off request">f5e0bf05392130109266b9685d81dc9f</sys_scope>
+        <sys_update_name>sys_script_include_35e0bf05ba2130108a6b28b8a3b58f7c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-23 09:13:00</sys_updated_on>
+    </sys_script_include>
+</record_update>

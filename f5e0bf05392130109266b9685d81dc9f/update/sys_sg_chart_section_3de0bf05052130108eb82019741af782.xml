@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <charts>35e0bf054b213010166fe715dbed6885</charts>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_hidden_preference_name/>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-23 09:12:59</sys_created_on>
+        <sys_id>3de0bf05052130108eb82019741af782</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requests This Year</sys_name>
+        <sys_package display_value="Time off request" source="x_13258_time_off_0">f5e0bf05392130109266b9685d81dc9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time off request">f5e0bf05392130109266b9685d81dc9f</sys_scope>
+        <sys_update_name>sys_sg_chart_section_3de0bf05052130108eb82019741af782</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-23 09:12:59</sys_updated_on>
+        <table/>
+        <title>Requests This Year</title>
+        <type>report</type>
+        <visible_condition/>
+    </sys_sg_chart_section>
+</record_update>

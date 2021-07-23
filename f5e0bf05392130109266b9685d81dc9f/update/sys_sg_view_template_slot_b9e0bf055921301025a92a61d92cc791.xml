@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
+        <name>text_10</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-23 09:12:57</sys_created_on>
+        <sys_id>b9e0bf055921301025a92a61d92cc791</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_10</sys_name>
+        <sys_package display_value="Time off request" source="x_13258_time_off_0">f5e0bf05392130109266b9685d81dc9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time off request">f5e0bf05392130109266b9685d81dc9f</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_b9e0bf055921301025a92a61d92cc791</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-23 09:12:57</sys_updated_on>
+        <type>Text</type>
+        <view_template display_value="Time Off Template">39e0bf055f213010e7b976520e457e91</view_template>
+    </sys_sg_view_template_slot>
+</record_update>

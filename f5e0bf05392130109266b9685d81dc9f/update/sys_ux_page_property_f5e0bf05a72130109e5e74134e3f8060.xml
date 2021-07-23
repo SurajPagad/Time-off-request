@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>headerConfigId</name>
+        <page display_value="Time off request portal">39e0bf057f21301087526f0b74c1b05e</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-23 09:12:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>f5e0bf05a72130109e5e74134e3f8060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>headerConfigId</sys_name>
+        <sys_package display_value="Time off request" source="x_13258_time_off_0">f5e0bf05392130109266b9685d81dc9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time off request">f5e0bf05392130109266b9685d81dc9f</sys_scope>
+        <sys_update_name>sys_ux_page_property_f5e0bf05a72130109e5e74134e3f8060</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-23 09:12:47</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_13258_time_off_0.39e0bf057f21301087526f0b74c1b05e.root.headerConfigId</unique_name>
+        <value>3de0bf050f2130107ede889524507758</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=f5e0bf05a72130109e5e74134e3f8060"/>
+</record_update>

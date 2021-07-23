@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Time off request workspace Config">75e0bf05072130108e3f9842074b928e</app_config>
+        <description/>
+        <fields>table</fields>
+        <icon/>
+        <name>List Modal Page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="List">3de0bf0573213010288b4e98d2a07048</parent_macroponent>
+        <parent_macroponent_composition_element_id>modalContainerViewport</parent_macroponent_composition_element_id>
+        <route_type>list_modal_page</route_type>
+        <screen_type display_value="List Modal Page">b9e0bf05d42130105f17d2874c4af948</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-23 09:12:58</sys_created_on>
+        <sys_id>f9e0bf05f0213010e812370dbbfece48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List Modal Page</sys_name>
+        <sys_package display_value="Time off request" source="x_13258_time_off_0">f5e0bf05392130109266b9685d81dc9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time off request">f5e0bf05392130109266b9685d81dc9f</sys_scope>
+        <sys_update_name>sys_ux_app_route_f9e0bf05f0213010e812370dbbfece48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-23 09:12:58</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=f9e0bf05f0213010e812370dbbfece48"/>
+</record_update>

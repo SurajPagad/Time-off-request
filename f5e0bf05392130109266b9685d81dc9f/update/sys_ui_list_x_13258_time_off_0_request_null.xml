@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_13258_time_off_0_request" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>f1e0bf05e1213010de75edc3e01ff03a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>35e0bf0589213010abc326b51311443a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>75e0bf059221301048a0ac1c536a0a3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by.department</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>b5e0bf05cf213010edd4b47ec899cb3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by.manager</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>f5e0bf05d52130102559e289f9e40b3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date_submitted</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>39e0bf05b5213010bdb31540abb6893a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>79e0bf0533213010b6307ad16b77513a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>b9e0bf059f21301066f74b6460a9cc3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>times_submitted</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>f9e0bf052f21301052f4111581619e3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_date</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>7de0bf0556213010512bb82a805b583a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_date</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>bde0bf052b213010b3e2eba0559db63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>time_off_reason</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>fde0bf0550213010015f073ce40a283a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>rejection_reason</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>31e0bf05df213010f2fb023ac295803b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>71e0bf05ee213010a20ce56739d8ab3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_notes</element>
+            <list_id display_value="x_13258_time_off_0_request" element="NULL" name="x_13258_time_off_0_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b1e0bf0571213010bf6db9587b7b373a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_id>b1e0bf05df213010501915e29b6d263b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_13258_time_off_0_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-23 09:12:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1e0bf0571213010bf6db9587b7b373a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_13258_time_off_0_request</sys_name>
+            <sys_package display_value="Time off request" source="x_13258_time_off_0">f5e0bf05392130109266b9685d81dc9f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time off request">f5e0bf05392130109266b9685d81dc9f</sys_scope>
+            <sys_update_name>sys_ui_list_x_13258_time_off_0_request_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-23 09:12:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

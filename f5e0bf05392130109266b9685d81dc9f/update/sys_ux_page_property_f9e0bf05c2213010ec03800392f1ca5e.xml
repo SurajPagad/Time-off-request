@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>notification_route</description>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="Time off request workspace">35e0bf050f2130102ad4ac31c504fb5e</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-23 09:13:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>f9e0bf05c2213010ec03800392f1ca5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="Time off request" source="x_13258_time_off_0">f5e0bf05392130109266b9685d81dc9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time off request">f5e0bf05392130109266b9685d81dc9f</sys_scope>
+        <sys_update_name>sys_ux_page_property_f9e0bf05c2213010ec03800392f1ca5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-23 09:13:08</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_13258_time_off_0.35e0bf050f2130102ad4ac31c504fb5e.root.chrome_notification_uiRoute</unique_name>
+        <value>35e0bf0583213010f46a7e610b9c8c40</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=f9e0bf05c2213010ec03800392f1ca5e"/>
+</record_update>

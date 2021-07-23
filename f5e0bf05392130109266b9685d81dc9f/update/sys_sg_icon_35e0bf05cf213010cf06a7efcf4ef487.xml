@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"Chart Bar"}</icon>
+        <name>Time Off Dashboard</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-23 09:12:56</sys_created_on>
+        <sys_id>35e0bf05cf213010cf06a7efcf4ef487</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off Dashboard</sys_name>
+        <sys_package display_value="Time off request" source="x_13258_time_off_0">f5e0bf05392130109266b9685d81dc9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time off request">f5e0bf05392130109266b9685d81dc9f</sys_scope>
+        <sys_update_name>sys_sg_icon_35e0bf05cf213010cf06a7efcf4ef487</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-23 09:12:56</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
